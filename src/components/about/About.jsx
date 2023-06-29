@@ -4,7 +4,7 @@ import { pilar } from "../../assets/index";
 const About = () => {
   return (
     <section
-      id="features"
+      id="about"
       className="w-full py-20 border-b-[1px] border-b-black"
     >
       <Title title="Acerca de Mi" des="Lo Que Hago" />
