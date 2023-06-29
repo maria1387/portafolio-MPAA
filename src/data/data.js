@@ -15,7 +15,7 @@ export const featuresData = [
     imagen:zapatero,
     title: "Ecommerce Zapatero",
     des: "PostgreSQL. Node.js. React",
-    urlGithub : "https://github.com/maria1387/proyecto-final",
+    urlGithub : "https://github.com/maria1387/zapatero",
     urlGlobe: ""
   },
   {
