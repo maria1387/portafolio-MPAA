@@ -1,9 +1,17 @@
 
-import  {pizza, prevenWeb, viaje, empredimiento, naturalPic, zapatero } from "../assets/index";
+import  {pizza, prevenWeb, viaje, empredimiento, naturalPic, zapatero, pern } from "../assets/index";
 // Features Data
 export const featuresData = [
   {
     id: 1,
+    imagen:pern,
+    title: "Pern Stack",
+    des: "PostgreSQL. Node.js. React",
+    urlGithub : "https://github.com/maria1387/peck-start",
+    urlGlobe: "https://peck-start.netlify.app/"
+  },
+  {
+    id: 2,
     imagen:zapatero,
     title: "Ecommerce Zapatero",
     des: "PostgreSQL. Node.js. React",
@@ -11,7 +19,7 @@ export const featuresData = [
     urlGlobe: ""
   },
   {
-    id: 2,
+    id: 3,
     imagen: pizza, 
     title: "Pizza Mamma Mia",
     des: "React",
@@ -19,7 +27,7 @@ export const featuresData = [
     urlGlobe: "https://pizzas-mamma-mia.netlify.app/"
   },
   {
-    id: 3,
+    id: 4,
     imagen:naturalPic,
     title: "Natural Pic",
     des: "React",
@@ -28,7 +36,7 @@ export const featuresData = [
   },
   
   {
-    id: 4,
+    id: 5,
     imagen: prevenWeb,
     title: "PrevenWeb",
     des: "Vue. Firebase",
@@ -36,7 +44,7 @@ export const featuresData = [
     urlGlobe: "https://proyectofinal-28058.firebaseapp.com/"
   },
   {
-    id: 5,
+    id: 6,
     imagen: empredimiento,
     title: "MI Emprendimiento Web 2020",
     des: "HTML. Sass",
@@ -44,7 +52,7 @@ export const featuresData = [
     urlGlobe: "https://maria1387.github.io/-Mi-Emprendimiento-Web-2020//"
   },
   {
-    id: 6,
+    id: 7,
     imagen:viaje,
     title: "Viaje Chile",
     des: "HTML. Bootstrap",
