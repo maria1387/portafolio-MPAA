@@ -7,7 +7,7 @@ const About = () => {
       id="about"
       className="w-full py-20 border-b-[1px] border-b-black"
     >
-      <Title title="Acerca de Mi" des="Lo Que Hago" />
+      <Title title="Acerca de Mi" des="Quien soy" />
 
       <div className="w-full h-auto flex flex-col lgl:flex-row justify-between">
         <div className="w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg shadow-shadowOne flex flex-col md:flex-row lgl:flex-col gap-8 justify-center md:justify-start lgl:justify-center">

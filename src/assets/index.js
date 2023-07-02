@@ -6,7 +6,7 @@ import viaje from "./images/projects/Viaje.jpg";
 import empredimiento from "./images/projects/mi-emprendimiento.jpg";
 import naturalPic from "./images/projects/naturalPic.jpg";
 import zapatero from "./images/projects/zapatero.png";
-import pern from "./images/projects/PERN-Stack.png";
+import pern from "./images/projects/PERN.png";
 import pilar from "./images/pilar1.jpeg";
 
 export {

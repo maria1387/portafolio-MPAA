@@ -10,14 +10,14 @@ export const featuresData = [
     urlGithub : "https://github.com/maria1387/peck-start",
     urlGlobe: "https://peck-start.netlify.app/"
   },
-  {
-    id: 2,
-    imagen:zapatero,
-    title: "Ecommerce Zapatero",
-    des: "PostgreSQL. Node.js. React",
-    urlGithub : "https://github.com/maria1387/zapatero",
-    urlGlobe: ""
-  },
+  // {
+  //   id: 2,
+  //   imagen:zapatero,
+  //   title: "Ecommerce Zapatero",
+  //   des: "PostgreSQL. Node.js. React",
+  //   urlGithub : "https://github.com/maria1387/zapatero",
+  //   urlGlobe: ""
+  // },
   {
     id: 3,
     imagen: pizza, 

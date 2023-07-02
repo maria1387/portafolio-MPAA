@@ -43,7 +43,7 @@ const Navbar = () => {
           <div className="w-[80%] h-screen overflow-scroll absolute top-0 left-0 bg-gray-900 p-4 scrollbar-hide">
             <div className="flex flex-col gap-8 py-2 relative">
               <div>
-                <img className="rounded-full w-32" src={logo} alt="logo" />
+                <img className="rounded-full w-24" src={logo} alt="logo" />
               
               </div>
               <ul className="flex flex-col gap-4">
