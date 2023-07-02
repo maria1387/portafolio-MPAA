@@ -1,5 +1,5 @@
 
-import  {pizza, prevenWeb, viaje, empredimiento, naturalPic, zapatero, pern } from "../assets/index";
+import  {pizza, prevenWeb, viaje, empredimiento, naturalPic,  pern } from "../assets/index";
 // Features Data
 export const featuresData = [
   {
